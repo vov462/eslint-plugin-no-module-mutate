@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-module-mutate",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Disallow mutation of imported values",
   "keywords": [
     "eslint",
