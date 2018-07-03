@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "no-module-mutate/rule-name": 2
+        "no-module-mutate/no-module-mutate": 2
     }
 }
 ```
